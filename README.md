@@ -1,6 +1,6 @@
 <h1 align="center">
   <div style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/arrudadev/expo-barcode-scanner-poc/main/.github/expo-logo.png" width="500" />
+    <img src="https://raw.githubusercontent.com/arrudadev/expo-barcode-scanner-poc/main/.github/expo-logo.png" height="200" />
   </div>
   Expo Barcode Scanner
   <br>
@@ -14,7 +14,10 @@
   
 </div>
 
-<img src="https://raw.githubusercontent.com/arrudadev/expo-barcode-scanner-poc/main/.github/barcode-icon.png" height="500" width="100%" alt="cover" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/arrudadev/expo-barcode-scanner-poc/main/.github/barcode-icon.png" height="200" alt="cover" />
+</div>
+
 
 <h2 id="table-of-contents"> :pushpin: Table of Contents</h2>
 
@@ -24,8 +27,6 @@
    * [Prerequisites](#prerequisites)
    * [Installation](#installation)
    * [Usage](#usage)
-* [Contributing](#contributing)
-* [Collaborators](#collaborators)
 * [License](#license)
 
 <h2 id="about-the-project"> :pencil: About The Project</h2>
